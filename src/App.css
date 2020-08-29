@@ -1,8 +1,11 @@
+/*En general los estilos están bien pero agregaría otros colores solo por dinamismo y en algunas partes como en el about me*/
 body {
   background-color: black;
   color: #d1d1d1;
   font-family: "Tajawal", sans-serif;
   font-size: 1.2rem;
+   /*Agregaría centrado de texto*/
+   text-align: center;
 }
 
 h1,

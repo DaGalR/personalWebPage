@@ -3,6 +3,8 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faWhatsapp, faGithub } from "@fortawesome/free-brands-svg-icons";
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 
+//Tambien acá me areció bien que haya dejado el footer adherido a la parte inferior de la pantalla
+
 class Contact extends React.Component {
   render() {
     return (

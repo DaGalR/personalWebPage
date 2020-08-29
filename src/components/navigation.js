@@ -2,6 +2,8 @@ import React from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 
+//Me parece bien que haya dejado este componente fijo en la pantlla
+
 class Navigation extends React.Component {
   render() {
     return (

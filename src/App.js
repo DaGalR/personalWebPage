@@ -10,6 +10,8 @@ import Projects from "./components/projects";
 import Hobbies from "./components/hobbies";
 import Contact from "./components/contact";
 
+//Buen uso de React para dividir propiamente las secciones de la pagina
+
 function App() {
   return (
     <div className="contaier">
